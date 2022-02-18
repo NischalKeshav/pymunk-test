@@ -2,11 +2,13 @@
 name = "repl_python3_pymunk-test"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["NischalKeshav <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 pymunk = "^6.2.1"
+random2 = "^1.0.1"
+pygame = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 
